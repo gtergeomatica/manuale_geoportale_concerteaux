@@ -33,7 +33,7 @@ Il progetto si propone di partire da una maggiore conoscenza degli assetti clima
 
 **Contatto del responsabile del Geoportale e di questo manuale:** bianca.federici@unige.it 
 
-.. image:: img/loghi2.png
+.. image:: img/loghi.png
 
 
 
