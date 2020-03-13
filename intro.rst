@@ -37,9 +37,3 @@ Il progetto si propone di partire da una maggiore conoscenza degli assetti clima
 .. image:: img/loghi.png
 
 
-
-
-
-
-
-.. _Gter srl: https://www.gter.it
