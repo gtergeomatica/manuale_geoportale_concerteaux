@@ -33,3 +33,26 @@ Il pulsante **Login** in alto a destra nell'header, consente appunto all'utente 
 Strumenti e funzioni
 --------------------------------------------
 
+Modifica
++++++++++
+
+
+Selezione
+++++++++++
+
+Localizzazione
++++++++++++++++
+
+
+Stampa
++++++++
+
+Misura
+++++++++
+
+Dati
+++++++
+
+3D
+++++
+
