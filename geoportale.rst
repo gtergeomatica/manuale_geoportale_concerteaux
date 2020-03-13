@@ -20,6 +20,9 @@ Linterfaccia del Geoportale, intuitiva e user-friendly, è composta da:
 .. image:: img/base_layer.gif
 
 * **Toolbar** da qui è possibile accedere a tutti gli strumenti disponibili (metadati, editing per i soli utenti accreditati, selezione, localizzazione, stampa, misura, permalink, tabelle degli attributi, visualizzatore 3D). I singoli strumenti saranno meglio descritti nella sezione :ref:`strumenti-e-funzioni`.
+
+.. image:: img/tool.gif
+
 * **Pane Zoom** strumenti per la navigazione dell'area di mappa (sposta, zoom con rettangolo, zoom alla massima estenzione, zoom-in e zoom-out, zoom precedente e successivo).
 * **Scala e Coordinate del mouse** qui vengono mostrate la scala di visualizzazione e le coordinate al puntatore del mouse espresse.
 
