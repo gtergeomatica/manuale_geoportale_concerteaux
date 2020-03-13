@@ -19,19 +19,20 @@ L’obiettivo generale del progetto CONCERT-EAUX è quello di realizzare un osse
 
 Il progetto si propone di partire da una maggiore conoscenza degli assetti climatici del bacino idrografico, per poi definirne gli scenari evolutivi. Ciò consentirà di adattare gli strumenti di pianificazione dell’uso del territorio e delle risorse naturali, con particolare riguardo alla definizione dei prevedibili minimi e massimi deflussi nei corsi d’acqua.
 
-**Capofila del progetto CONCERT-EAUX:** Regione Liguria
+* **Capofila del progetto CONCERT-EAUX:** Regione Liguria
 
-**Partners del progetto CONCERT-EAUX:** ARPAL, IISL, BRGM, CNRS, SMIAGE
+* **Partners del progetto CONCERT-EAUX:** ARPAL, IISL, BRGM, CNRS, SMIAGE
 
-**Sito web del progetto CONCERT-EAUX:** https://www.concert-eaux.eu
+* **Sito web del progetto CONCERT-EAUX:** https://www.concert-eaux.eu
 
-**Il Geoportale del progetto CONCERT-EAUX:** https://www.gishosting.gter.it/lizmap-web-client/lizmap/www/index.php/view/map/?repository=concerteaux&project=concerteaux
+* **Il Geoportale del progetto CONCERT-EAUX:** https://www.gishosting.gter.it/lizmap-web-client/lizmap/www/index.php/view/map/?repository=concerteaux&project=concerteaux
 
-**Partner responsabile del Geoportale e di questo manuale:** Dipartimento di Ingegneria Civile, Chimica e Ambientale - UniGE
+* **Partner responsabile del Geoportale e di questo manuale:** Dipartimento di Ingegneria Civile, Chimica e Ambientale - UniGE
 
-**Persona responsabile del Geoportale e di questo manuale:** Prof.ssa Bianca Federici
+* **Persona responsabile del Geoportale e di questo manuale:** Prof.ssa Bianca Federici
 
-**Contatto del responsabile del Geoportale e di questo manuale:** bianca.federici@unige.it 
+* **Contatto del responsabile del Geoportale e di questo manuale:** bianca.federici@unige.it 
+
 
 .. image:: img/loghi.png
 
