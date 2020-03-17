@@ -42,7 +42,7 @@ Selezione
 
 Localizzazione
 +++++++++++++++
-
+Lo strumento **Localizzazione** permette di cercare e selezionare un comune facente parte del bacino del Roia. Una volta selezionato, l'area di mappa viene zoomata e centrata all'estensione del comune.
 
 Stampa
 +++++++
