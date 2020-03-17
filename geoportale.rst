@@ -51,6 +51,14 @@ Stampa
 
 Misura
 ++++++++
+Lo strumento **Misura** permette di misurare:
+* una lunghezza
+* un'area
+* un perimetro
+
+E' sufficiente selezionare il tipo di misura che si vuole fare dal menù a tendina e iniziare a disegnare sull'area di mappa la lunghezza/l'area/ il perimetro che si vuole misurare. Un click del tastro destro del mouse aggiunge un unovo nodo al tracciato della misura, doppio click con il tasto destro del mouse per chiudere il tracciato e quindi interrompere la misura. E' possibile passare da un tipo di misura all'altro semplicemente selezionando quello desiderato dal menù a tendina senza dover chiudere e riaprire lo strumento.
+
+.. image:: img/misura.gif
 
 Dati
 ++++++
