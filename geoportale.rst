@@ -40,6 +40,7 @@ Modifica
 Selezione
 ++++++++++
 Lo strumento **Selezione** permette di selezionare le geometrie di un layer a sua volta selezionato tramite il menù a tendina dello strumento. Gli strumenti di selezione disponibili sono:
+
 * selezione tramite riquadro
 * slezione tramite cerchio
 * selezione tramite poligono
@@ -62,6 +63,7 @@ Stampa
 Misura
 ++++++++
 Lo strumento **Misura** permette di misurare:
+
 * una lunghezza
 * un'area
 * un perimetro
