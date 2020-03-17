@@ -39,6 +39,16 @@ Modifica
 
 Selezione
 ++++++++++
+Lo strumento **Selezione** permette di selezionare le geometrie di un layer a sua volta selezionato tramite il menù a tendina dello strumento. Gli strumenti di selezione disponibili sono:
+* selezione tramite riquadro
+* slezione tramite cerchio
+* selezione tramite poligono
+* selezione tramite disegno a mano libera
+
+E' possibile creare una nuova selezione, aggiungere gli elementi selezionati alla selezione esistente oppure rimuovere gli elementi selezionati dalla selezione esistente. Inoltre è possibile deselezionare tutti gli elementi slezionati oppure filtrare gli elementi selezionati. Con il filtro resteranno visibili nell'area di mappa solo gli elementi precedentemente selezionati. ovviamente è possibile rimuovere il filtro per visualizzare nuovamente tutte le geometrie.
+
+.. image:: img/selezione.gif
+
 
 Localizzazione
 +++++++++++++++
