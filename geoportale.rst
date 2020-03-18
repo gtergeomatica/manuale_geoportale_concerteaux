@@ -88,6 +88,8 @@ Lo strumento **3D** permette di visualizzare alcuni dati pubblicati nel geoporta
 
 .. image:: img/treD.gif
 
+Il pannello in basso in cui viene visualizzato il modello 3D può essere ingrandito cliccando sul tasto *Massimizza*, oppure mantenuto aperto cliccando il tasto *Fissa* oppure chiuso cliccando sul tasto *Chiudi* nella barra degli strumenti in basso nel pannello oppure cliccando nuovamente il pulsante sulla toolbar laterale del geoportale.
+
 Manuale
 +++++++
 Lo strumento **Manuale** apre in una nuova pagina del browser la pagina wed di questo manuale.
