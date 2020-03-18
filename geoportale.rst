@@ -80,4 +80,15 @@ Dati
 
 3D
 ++++
+Lo strumento **3D** permette di visualizzare alcuni dati pubblicati nel geoportale in un modello tridimensionale basato sul Modello Digitale del terreno del Bacino del Roia. Si tratta di un visualizzatore 3D integrato dotato di propri strumenti come ad esempio un albero dei layer da cui è possibile accendere/spegnere i singoli layer e modificarne l'opacità. Inoltre è possibile interrogare le singole features nel modello 3D semplicemente cliccandoci sopra con il mouse. Il modello è navigabile attraverso il mouse:
+
+* tenendo premuto il tasto sinistro si ha il tool *orbita*
+* tenendo premuto il tasto destro si ha il tool *pan*
+* muovendo la rotella si ha il tool *zoom*
+
+.. image:: img/treD.gif
+
+Manuale
++++++++
+Lo strumento **Manuale** apre in una nuova pagina del browser la pagina wed di questo manuale.
 
