@@ -89,10 +89,10 @@ html_scaled_image_link: True
 #html_theme = 'alabaster'
 
 #standard readthedocs
-#html_theme = "sphinx_rtd_theme"
+html_theme = "sphinx_rtd_theme"
 
 #theme lizmap
-html_theme = 'srtd'
+#html_theme = 'srtd'
 
 # Add any paths that contain custom themes here, relative to this directory.
 html_theme_path = ['./themes']
