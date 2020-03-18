@@ -90,6 +90,8 @@ Una volta aperta la tabella degli attributi, è possibile agire sulle singole ri
 
 .. image:: img/dati.gif
 
+Per maggiori dettagli si rimanda al manuale di Lizmap Web Client https://docs.lizmap.com/current/it/user/user_guide.html#attribute-layers
+
 3D
 ++++
 Lo strumento **3D** permette di visualizzare alcuni dati pubblicati nel geoportale in un modello tridimensionale basato sul Modello Digitale del terreno del Bacino del Roia. Si tratta di un visualizzatore 3D integrato dotato di propri strumenti come ad esempio un albero dei layer da cui è possibile accendere/spegnere i singoli layer e modificarne l'opacità. Inoltre è possibile interrogare le singole features nel modello 3D semplicemente cliccandoci sopra con il mouse. Il modello è navigabile attraverso il mouse:
