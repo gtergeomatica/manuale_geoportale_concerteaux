@@ -7,6 +7,7 @@ L'interfaccia grafica
 Il geoportale Concert-Eaux è raggiungibile a questo link: https://www.gishosting.gter.it/lizmap-web-client/lizmap/www/index.php/view/map/?repository=concerteaux&project=concerteaux
 
 .. image:: img/interfaccia.png
+  :scale: 90%
 
 Linterfaccia del Geoportale, intuitiva e user-friendly, è composta da:
 
