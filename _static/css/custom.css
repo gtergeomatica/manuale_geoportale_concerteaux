@@ -1,10 +1,10 @@
 
 @import url('theme.css');
-/*
+
 .wy-nav-side {
-    position: absolute;
+    position: fixed;
 }
-*/
+
 .wy-nav-content {
     max-width: unset;
 }
