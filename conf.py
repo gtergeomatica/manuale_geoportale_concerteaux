@@ -50,7 +50,7 @@ extensions = [
 
 # Add any paths that contain templates here, relative to this directory.
 #templates_path = ['_templates']
-templates_path = ['_template']
+#templates_path = ['_template']
 
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:
@@ -152,6 +152,11 @@ html_style = 'css/custom.css'
 # pixels large.
 #html_favicon = None
 
+# Add any paths that contain custom static files (such as style sheets) here,
+# relative to this directory. They are copied after the builtin static files,
+# so a file named "default.css" will overwrite the builtin "default.css".
+html_static_path = ['_static']
+
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
 #html_last_updated_fmt = '%b %d, %Y'
@@ -206,10 +211,7 @@ html_show_copyright = True
 #
 # html_theme_options = {}
 
-# Add any paths that contain custom static files (such as style sheets) here,
-# relative to this directory. They are copied after the builtin static files,
-# so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
