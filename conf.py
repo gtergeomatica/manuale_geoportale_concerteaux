@@ -107,7 +107,7 @@ html_title = ""
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
 #html_logo = None
-html_logo = 'images/logo.png'
+#html_logo = 'images/logo.png'
 
 #import guzzle_sphinx_theme
 #extensions.append("guzzle_sphinx_theme")
