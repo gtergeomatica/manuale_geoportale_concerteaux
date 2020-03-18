@@ -85,7 +85,27 @@ html_scaled_image_link: True
 #
 #html_theme = 'alabaster'
 
-html_theme = "sphinx_rtd_theme"
+#standard readthedocs
+#html_theme = "sphinx_rtd_theme"
+
+#theme lizmap
+html_theme = 'srtd'
+
+# Add any paths that contain custom themes here, relative to this directory.
+html_theme_path = ['./themes']
+
+# The name for this set of Sphinx documents.  If None, it defaults to
+# "<project> v<release> documentation".
+html_title = ""
+
+# A shorter title for the navigation bar.  Default is the same as html_title.
+#html_short_title = None
+
+# The name of an image file (relative to this directory) to place at the top
+# of the sidebar.
+#html_logo = None
+html_logo = 'images/logo.png'
+
 #import guzzle_sphinx_theme
 #extensions.append("guzzle_sphinx_theme")
 #html_theme_path = guzzle_sphinx_theme.html_theme_path()
@@ -95,23 +115,85 @@ html_theme = "sphinx_rtd_theme"
 
 
 
-html_theme_options = {
-    'canonical_url': '',
-    #'analytics_id': 'UA-XXXXXXX-1',  #  Provided by Google in your dashboard
-    'logo_only': False,
-	#'html_logo': img/4ISTITUZIONALI.png,
-    'display_version': True,
-    'prev_next_buttons_location': 'bottom',
-    'style_external_links': False,
-    'vcs_pageview_mode': '',
-    #'html_scaled_image_link': True,
-    # Toc options
-    'collapse_navigation': True,
-    'sticky_navigation': True,
-    'navigation_depth': 4,
-    'includehidden': True,
-    'titles_only': False
+
+# html_theme_options = {
+    # 'canonical_url': '',
+    # #'analytics_id': 'UA-XXXXXXX-1',  #  Provided by Google in your dashboard
+    # 'logo_only': False,
+	# #'html_logo': img/4ISTITUZIONALI.png,
+    # 'display_version': True,
+    # 'prev_next_buttons_location': 'bottom',
+    # 'style_external_links': False,
+    # 'vcs_pageview_mode': '',
+    # #'html_scaled_image_link': True,
+    # # Toc options
+    # 'collapse_navigation': True,
+    # 'sticky_navigation': True,
+    # 'navigation_depth': 4,
+    # 'includehidden': True,
+    # 'titles_only': False
+# }
+
+
+
+
+html_context = {
+        'theme_logo_only': True,
+        'lizmap_versions': lizmap_versions
 }
+
+html_style = 'css/custom.css'
+
+# The name of an image file (within the static path) to use as favicon of the
+# docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
+# pixels large.
+#html_favicon = None
+
+# If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
+# using the given strftime format.
+#html_last_updated_fmt = '%b %d, %Y'
+
+# If true, SmartyPants will be used to convert quotes and dashes to
+# typographically correct entities.
+#html_use_smartypants = True
+
+# Custom sidebar templates, maps document names to template names.
+#html_sidebars = {
+#    'index': ['myglobaltoc.html'],
+#    'search': [],
+#    '**': ['myglobaltoc.html']
+#}
+
+# Additional templates that should be rendered to pages, maps page names to
+# template names.
+#html_additional_pages = {}
+
+# If false, no module index is generated.
+#html_domain_indices = True
+
+# If false, no index is generated.
+#html_use_index = True
+
+# If true, the index is split into individual pages for each letter.
+#html_split_index = False
+
+# If true, links to the reST sources are added to the pages.
+#html_show_sourcelink = True
+
+# If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
+html_show_sphinx = True
+
+# If true, "(C) Copyright ..." is shown in the HTML footer. Default is True.
+html_show_copyright = True
+
+# If true, an OpenSearch description file will be output, and all pages will
+# contain a <link> tag referring to it.  The value of this option must be the
+# base URL from which the finished HTML is served.
+#html_use_opensearch = ''
+
+# This is the file name suffix for HTML files (e.g. ".xhtml").
+#html_file_suffix = None
+
 
 
 
@@ -141,6 +223,12 @@ html_static_path = ['_static']
 
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'manuale_geoportale_concerteaux'
+
+
+
+
+
+
 
 
 from sphinx.builders.html import StandaloneHTMLBuilder
