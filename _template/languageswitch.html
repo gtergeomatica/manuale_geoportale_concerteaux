@@ -1,0 +1,35 @@
+
+
+<select id="languages">
+  {% for lang in lizmap_locales %}
+  <option value="{{ lang }}" data-url="{{ lizmap_path_to_root }}../{{ lang }}/index.html" title="{{ lizmap_locales_name[lang] }}">{{ lizmap_locales_label[lang] }}</option>
+  {% endfor %}
+</select>
+
+<span id="versions-links">
+  Versions:
+  <span id="versions-links-list">
+  {% for liz_vers, liz_label, liz_link in lizmap_versions.list %}
+    {% if liz_vers == lizmap_versions.next_version%}
+      {% if version == lizmap_versions.next_version %}<strong class="verlink">{{ liz_label }}</strong>{% endif %}
+    {%else%}
+    {% if liz_vers == version %}
+    <strong class="verlink">{{ liz_label }}</strong>
+    {% else %}
+      <a class="verlink" href="{{ lizmap_path_to_root }}../../{{ liz_link }}/{{ language }}/" title="{{ liz_label }}">{{ liz_label }}</a>
+    {% endif %}{% endif %}
+  {% endfor %}
+  </span>
+</span>
+
+<script>
+    var currentPage = '{{current_page_name}}.html'; // coming from sphinx, always without starting '/';
+    var currentLang = '{{ language }}';
+    document.addEventListener("DOMContentLoaded", function(){
+        var selectLanguage = document.getElementById("languages");
+        selectLanguage.value = currentLang;
+        selectLanguage.addEventListener("change", function(event) {
+            window.location.href = event.target.selectedOptions[0].getAttribute('data-url');
+        }, false);
+    }, false);
+</script>

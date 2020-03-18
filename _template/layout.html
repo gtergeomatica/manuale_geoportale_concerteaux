@@ -1,0 +1,79 @@
+{% extends "!layout.html" %}
+
+{% set lizmap_locales_name = {
+'fr': _('French'),
+'en': _('English'),
+'es': _('Spanish'),
+'it': _('Italian'),
+'pt': _('Portuguese'),
+'fi': _('Finnish'),
+'ca_ES': _('Catalan'),
+'da_DK': _('Danish'),
+'de': _('German'),
+'fa': _('Persian'),
+'id': _('Indonesian'),
+'ja': _('Japanese'),
+'ko_KR': _('Korean'),
+'nl': _('Dutch'),
+'ro': _('Romanian'),
+'ru': _('Russian'),
+'zh_CN': _('Chinese (China)'),
+'zh_TW': _('Chinese (Taiwan)')
+}
+%}
+
+{% set lizmap_locales_label = {
+'fr': 'Français',
+'en': 'English',
+'es': 'Español',
+'it': 'Italiano',
+'pt': 'Português',
+'fi': 'Suomalainen',
+'ca_ES': 'Catalan',
+'da_DK': 'Dansk',
+'de': 'Deutsch',
+'fa': 'فارسی',
+'id': 'Bahasa Indonesia',
+'ja': '日本語',
+'ko_KR': '한국어',
+'nl': 'Nederlands',
+'ro': 'Română',
+'ru': 'Русский',
+'zh_CN': '中文',
+'zh_TW': _('Chinese (Taiwan)')
+}
+%}
+
+{% set lizmap_locales = lizmap_versions.locales[version] %}
+{% set lizmap_path_to_root = pathto('index')|replace('index.html','')|replace('#','') %}
+
+{% block extrahead %}
+    {% for lang in lizmap_locales -%}
+        {% if language != lang -%}
+        <link href="{{ lizmap_path_to_root }}../{{ lang }}/" rel="alternate" hreflang="{{ lang }}"/>
+        {% endif %}
+    {%- endfor %}
+    <link href="https://docs.lizmap.com/current/{{ language }}/" rel="canonical"/>
+{% endblock %}
+
+{% block bodyheader %}
+<div class="globalnav globalhead">
+    <a class="siteNav" href="{{ pathto(master_doc) }}" >
+        <img src="{{ pathto('_static/' + logo, 1) }}" class="logo" />
+        <span class="siteNavTitle">
+            Documentation
+        </span>
+    </a>
+    {% include "languageswitch.html" %}
+</div>
+{% endblock %}
+
+{% block sidebartitle %}
+    <a class="sideTitle" href="{{ pathto(master_doc) }}" style="color:black">
+        LIZMAP
+    </a>
+    <div class="version" style="color:black">
+        {{ version }}
+    </div>
+    {% include "searchbox.html" %}
+{% endblock %}
