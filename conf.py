@@ -139,7 +139,7 @@ html_logo = 'images/logo.png'
 
 html_context = {
         'theme_logo_only': True,
-        'lizmap_versions': lizmap_versions
+        #'lizmap_versions': lizmap_versions
 }
 
 html_style = 'css/custom.css'
