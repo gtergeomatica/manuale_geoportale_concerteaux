@@ -8,7 +8,7 @@ Il geoportale Concert-Eaux è raggiungibile a questo link: https://www.gishostin
 
 .. image:: img/interfaccia.png
   :align: center
-  :width: 99%
+  :width: 90%
 
 Linterfaccia del Geoportale, intuitiva e user-friendly, è composta da:
 
