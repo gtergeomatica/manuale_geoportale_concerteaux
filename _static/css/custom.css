@@ -1,18 +1,19 @@
 
 @import url('theme.css');
-
+/*
 .wy-nav-side {
-    /*position: absolute;*/
+    position: absolute;
 }
-
+*/
 .wy-nav-content {
     max-width: unset;
 }
-/*
+
+
 .wy-side-nav-search {
-    background-color: #c5e5ea;
+    background-color: #ff0000;
 }
-*/
+
 .globalhead {
     background: #000;
     padding: 4px 18px 4px 8px;
