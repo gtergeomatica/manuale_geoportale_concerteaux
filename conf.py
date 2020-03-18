@@ -86,6 +86,7 @@ html_scaled_image_link: True
 #html_theme = 'alabaster'
 
 html_theme = "sphinx_rtd_theme"
+#html_theme = "srtd"
 #import guzzle_sphinx_theme
 #extensions.append("guzzle_sphinx_theme")
 #html_theme_path = guzzle_sphinx_theme.html_theme_path()
