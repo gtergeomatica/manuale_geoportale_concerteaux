@@ -91,11 +91,9 @@ html_scaled_image_link: True
 #standard readthedocs
 html_theme = "sphinx_rtd_theme"
 
-#theme lizmap
-#html_theme = 'srtd'
 
 # Add any paths that contain custom themes here, relative to this directory.
-html_theme_path = ['./themes']
+#html_theme_path = ['./themes']
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
@@ -107,7 +105,9 @@ html_title = ""
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
 #html_logo = None
-#html_logo = 'images/logo.png'
+html_logo = 'img/logo.png'
+
+
 
 #import guzzle_sphinx_theme
 #extensions.append("guzzle_sphinx_theme")
