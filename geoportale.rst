@@ -77,6 +77,17 @@ E' sufficiente selezionare il tipo di misura che si vuole fare dal menù a tendi
 
 Dati
 ++++++
+Lo strumento **Dati** permette di visualizzare in un pannello, che viene aperto automaticamente in basso cliccando sul pulsante nella toolbar laterale, la tabella degli attributi associata alle geometrie dei vari layer pubblicati nel geoportale. All'apertura, il pannello mostra l'elenco dei layer per i quali è possibile visualizzare la tabella. E' sufficiente premere sul pulsante *Dettaglio* corrispondente al layer desiderato per visualizzare la tabella. 
+
+Una volta aperta la tabella degli attributi, è possibile agire sulle singole righe tramite i pulsanti in corrispondenza di ciascuna riga. Questi tool permettono di:
+* selezionare la riga e quindi la geometria corrispondente, 
+* zoomare sulla geometria, 
+* centrare l'area di mappa sulla geometria ,
+* modificare le informazioni alfanumeriche presenti in tabella (solo se l'utente loggato è abilitato alla modifica dei dati)
+
+.....continuare
+
+.. image:: img/dati.gif
 
 3D
 ++++
