@@ -35,7 +35,19 @@ Strumenti e funzioni
 
 Modifica
 +++++++++
-Lo strumento **Modifica** compare nella toolbar solo se l'utente ha eseguito il login e se gli sono stati attribuiti i permessi per la modifica dei dati. Lo strumento consente solo di creare nuovi elementi (sia la geometria che le relative informazioni alfanumeriche).
+Lo strumento **Modifica** compare nella toolbar solo se l'utente ha eseguito il login e se gli sono stati attribuiti i permessi per la modifica dei dati. Lo strumento consente di:
+
+* creare nuovi elementi (sia la geometria che le relative informazioni alfanumeriche),
+* modificare le geometrie e/o le relative informazioni alfanumeriche
+* eliminare le geometrie esistenti
+
+Per creare nuovi elementi è sufficiente cliccare sul bottone dello strumento **Modifica** nella toolbar, disegnare la geometria nell'area di mappa e inserire le varie informazioni nella tabella.
+
+Per modificare un elemento esistente invece, è ncessario interrogare l'elemento desiderato cliccando con il mouse e si aprirà il pop-up con l'elenco delle informazioni associate all'elemento. Nel pop-up è presente una toolbar, selezionando lo strumento modifica da qui è possibile accedere e quindi modificare le informazioni associate o la geometria.
+
+Per eliminare invece un elemento esistente, il procedimento è simile a quello della modifica. Bisogna infatti accedere allo strumento modifica presente nella toolbar del pop-up che compare interrogando l'elemento di interesse e andare a inserire la data in corrispondenza del campo **data_eliminazione**.
+
+In ogni caso per rendere effettiva qualsiasi modifica ai dati (creazione di nuovi elementi, modifica o eliminazione degli esistenti) è necessario premere il pulsante *Salva*. ATTENZIONE: una volta salvate le modifiche non sarà più possibile tornare indietro.
 
 
 Selezione
