@@ -49,6 +49,10 @@ Per eliminare invece un elemento esistente, il procedimento è simile a quello d
 
 In ogni caso per rendere effettiva qualsiasi modifica ai dati (creazione di nuovi elementi, modifica o eliminazione degli esistenti) è necessario premere il pulsante *Salva*. ATTENZIONE: una volta salvate le modifiche non sarà più possibile tornare indietro.
 
+.. image:: img/modifica.gif
+
+Per maggiori dettagli si rimanda al manuale di Lizmap Web Client https://docs.lizmap.com/current/it/user/user_guide.html#editing-spatial-data
+
 
 Selezione
 ++++++++++
