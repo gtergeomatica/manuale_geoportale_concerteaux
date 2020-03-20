@@ -20,31 +20,35 @@ msgstr ""
 
 #: ../../intro.rst:2
 msgid "Introduzione"
-msgstr ""
+msgstr "Introduction"
 
 #: ../../intro.rst:5
 msgid "Credits"
-msgstr ""
+msgstr "Crédits"
 
 #: ../../intro.rst:8
 msgid "https://www.gter.it/"
-msgstr ""
+msgstr "https://www.gter.it/"
 
 #: ../../intro.rst:11
 msgid ""
 "Il **Geoportale del Progetto INTERREG Concert-Eaux** e questo manuale "
 "sono stati sviluppati da Gter srl Innovazione in Geomatica GNSS e GIS."
 msgstr ""
+"Le Géoportail du projet INTERREG Concert-Eaux et ce manuel "
+"ont été développés par Gter srl Innovazione in Geomatica GNSS e GIS."
 
 #: ../../intro.rst:13
 msgid ""
 "Il manuale è distribuito con licenza Creative Commons Attribution 4.0 "
 "International License https://creativecommons.org/licenses/by/4.0/"
 msgstr ""
+"Le manuel est distribué sous une licence Creative Commons Attribution 4.0 "
+"International License https://creativecommons.org/licenses/by/4.0/"
 
 #: ../../intro.rst:17
 msgid "Il progetto Concert-Eaux"
-msgstr ""
+msgstr "Le projet Concert-Eaux"
 
 #: ../../intro.rst:18
 msgid ""
@@ -56,6 +60,13 @@ msgid ""
 "deflusso superficiale, i parametri di evapotraspirazione, le condizioni "
 "di alimentazione delle falde idriche."
 msgstr ""
+"L'objectif général du projet CONCERT-EAUX est de créer un "
+"observatoire de l'impact climatique dans le bassin fluvial italo-français"
+" de la rivière Roya, notamment en matière de suivi du cycle des eaux de "
+"surface et souterraines. Les changements climatiques interfèrent"
+" avec ce cycle, influençant le régime pluviométrique, les méthodes de "
+"ruissellement de surface, les paramètres d'évapotranspiration, les conditions "
+"d'alimentation des nappes phréatiques."
 
 #: ../../intro.rst:20
 msgid ""
@@ -66,18 +77,24 @@ msgid ""
 "riguardo alla definizione dei prevedibili minimi e massimi deflussi nei "
 "corsi d’acqua."
 msgstr ""
+"Le projet vise à partir d'une meilleure connaissance des structures "
+"climatiques du bassin versant, pour ensuite définir ses scénarios "
+"d'évolution. Cela permettra d'adapter les outils d'aménagement du "
+"territoire et de planification des ressources naturelles, notamment en ce "
+"qui concerne la définition des débits minimaux et maximaux prévisibles "
+"dans les cours d'eau."
 
 #: ../../intro.rst:22
 msgid "**Capofila del progetto CONCERT-EAUX:** Regione Liguria"
-msgstr ""
+msgstr "**Capofila du projet CONCERT-EAUX:** Regione Liguria"
 
 #: ../../intro.rst:24
 msgid "**Partners del progetto CONCERT-EAUX:** ARPAL, IISL, BRGM, CNRS, SMIAGE"
-msgstr ""
+msgstr "**Partenaires du projet CONCERT-EAUX:** ARPAL, IISL, BRGM, CNRS, SMIAGE"
 
 #: ../../intro.rst:26
 msgid "**Sito web del progetto CONCERT-EAUX:** https://www.concert-eaux.eu"
-msgstr ""
+msgstr "**Site web du projet CONCERT-EAUX:** https://www.concert-eaux.eu"
 
 #: ../../intro.rst:28
 msgid ""
@@ -85,22 +102,31 @@ msgid ""
 "https://www.gishosting.gter.it/lizmap-web-"
 "client/lizmap/www/index.php/view/map/?repository=concerteaux&project=concerteaux"
 msgstr ""
+"**Le Géoportail du projet CONCERT-EAUX:** "
+"https://www.gishosting.gter.it/lizmap-web-"
+"client/lizmap/www/index.php/view/map/?repository=concerteaux&project=concerteaux"
 
 #: ../../intro.rst:30
 msgid ""
 "**Partner responsabile del Geoportale e di questo manuale:** Dipartimento"
 " di Ingegneria Civile, Chimica e Ambientale - UniGE"
 msgstr ""
+"**Partenaire gestionnaire de Géoportail et du ce manuel:** Dipartimento"
+" di Ingegneria Civile, Chimica e Ambientale - UniGE"
 
 #: ../../intro.rst:32
 msgid ""
 "**Persona responsabile del Geoportale e di questo manuale:** Prof.ssa "
 "Bianca Federici"
 msgstr ""
+"**Personne gestionnaire de Géoportail et du ce manuel:** Prof.ssa "
+"Bianca Federici"
 
 #: ../../intro.rst:34
 msgid ""
 "**Contatto del responsabile del Geoportale e di questo manuale:** "
 "bianca.federici@unige.it"
 msgstr ""
+"**Contact du responsable du Géoportailet du ce manuel:** "
+"bianca.federici@unige.it"
 
