@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Gter srl
+# This file is distributed under the same license as the Manuale - Geoportale Concert-Eaux package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Manuale - Geoportale Concert-Eaux \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-20 10:51+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../intro.rst:2
+msgid "Introduzione"
+msgstr ""
+
+#: ../../intro.rst:5
+msgid "Credits"
+msgstr ""
+
+#: ../../intro.rst:8
+msgid "https://www.gter.it/"
+msgstr ""
+
+#: ../../intro.rst:11
+msgid "Il **Geoportale del Progetto INTERREG Concert-Eaux** e questo manuale sono stati sviluppati da Gter srl Innovazione in Geomatica GNSS e GIS."
+msgstr ""
+
+#: ../../intro.rst:13
+msgid "Il manuale è distribuito con licenza Creative Commons Attribution 4.0 International License https://creativecommons.org/licenses/by/4.0/"
+msgstr ""
+
+#: ../../intro.rst:17
+msgid "Il progetto Concert-Eaux"
+msgstr ""
+
+#: ../../intro.rst:18
+msgid "L’obiettivo generale del progetto CONCERT-EAUX è quello di realizzare un osservatorio dell’impatto climatico nel bacino idrografico italo-francese del Fiume Roya, con particolare riguardo ai monitoraggi del ciclo delle acque di superficie e sotterranee. I cambiamenti climatici interferiscono su tale ciclo, influenzando il regime delle piogge, le modalità di deflusso superficiale, i parametri di evapotraspirazione, le condizioni di alimentazione delle falde idriche."
+msgstr ""
+
+#: ../../intro.rst:20
+msgid "Il progetto si propone di partire da una maggiore conoscenza degli assetti climatici del bacino idrografico, per poi definirne gli scenari evolutivi. Ciò consentirà di adattare gli strumenti di pianificazione dell’uso del territorio e delle risorse naturali, con particolare riguardo alla definizione dei prevedibili minimi e massimi deflussi nei corsi d’acqua."
+msgstr ""
+
+#: ../../intro.rst:22
+msgid "**Capofila del progetto CONCERT-EAUX:** Regione Liguria"
+msgstr ""
+
+#: ../../intro.rst:24
+msgid "**Partners del progetto CONCERT-EAUX:** ARPAL, IISL, BRGM, CNRS, SMIAGE"
+msgstr ""
+
+#: ../../intro.rst:26
+msgid "**Sito web del progetto CONCERT-EAUX:** https://www.concert-eaux.eu"
+msgstr ""
+
+#: ../../intro.rst:28
+msgid "**Il Geoportale del progetto CONCERT-EAUX:** https://www.gishosting.gter.it/lizmap-web-client/lizmap/www/index.php/view/map/?repository=concerteaux&project=concerteaux"
+msgstr ""
+
+#: ../../intro.rst:30
+msgid "**Partner responsabile del Geoportale e di questo manuale:** Dipartimento di Ingegneria Civile, Chimica e Ambientale - UniGE"
+msgstr ""
+
+#: ../../intro.rst:32
+msgid "**Persona responsabile del Geoportale e di questo manuale:** Prof.ssa Bianca Federici"
+msgstr ""
+
+#: ../../intro.rst:34
+msgid "**Contatto del responsabile del Geoportale e di questo manuale:** bianca.federici@unige.it"
+msgstr ""
+
