@@ -20,9 +20,9 @@ msgstr ""
 
 #: ../../index.rst:7
 msgid "Manuale del Geoportale Concert-Eaux"
-msgstr ""
+msgstr "Manuel du Géoportail Concert-Eaux"
 
 #: ../../index.rst:8
 msgid "Contenuti:"
-msgstr ""
+msgstr "Sommaire:"
 
