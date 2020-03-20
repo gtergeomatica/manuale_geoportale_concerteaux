@@ -86,7 +86,15 @@ Una volta aperta la tabella degli attributi, è possibile agire sulle singole ri
 * centrare l'area di mappa sulla geometria ,
 * modificare le informazioni alfanumeriche presenti in tabella (solo se l'utente loggato è abilitato alla modifica dei dati)
 
-.....continuare
+E' possibile inoltre filtrare le righe mostrate in tabella digitando ad esempio una parola chiave o anche solo alcuni caratteri nel form *Cerca*. Saranno quindi mostrate solo le righe che rispondono al criterio di ricerca. Per tornare alla visualizzazione totale delle righe è sufficiente cancellare il contenuto dal form *Cerca*. Una volta filtrate le righe secondo un criterio di interesse, tutte le geometrie sono comunque visibili nell'area di mappa mentre saranno visualizzate solo le righe della tabella che rispondono al criterio di ricerca.
+
+Gli strumenti accanto al form *Cerca* permettono di:
+
+* selezionare tutte le righe, 
+* deselezionare le righe selezionate, 
+* spostare le righe selezionate in cima alla tabella
+* filtrare i dati (con questo strumento verranno temporaneamente visualizzate solo le geometrie e le corrispondenti righe in tabella che rispondono al criterio di ricerca. Per tornare alla visualizzazione totale è sufficiente cliccare nuovamente sul pulsante del filto),
+* visualizzare i valori della tabella.
 
 .. image:: img/dati.gif
 
