@@ -20,11 +20,11 @@ msgstr ""
 
 #: ../../geoportale.rst:2
 msgid "Il Geoportale Concert-Eaux"
-msgstr ""
+msgstr "Le Géoportail Concert-Eaux"
 
 #: ../../geoportale.rst:5
 msgid "L'interfaccia grafica"
-msgstr ""
+msgstr "L'interface graphique."
 
 #: ../../geoportale.rst:7
 msgid ""
@@ -97,11 +97,11 @@ msgstr ""
 
 #: ../../geoportale.rst:34
 msgid "Strumenti e funzioni"
-msgstr ""
+msgstr "Les fonctionnalités"
 
 #: ../../geoportale.rst:37
 msgid "Modifica"
-msgstr ""
+msgstr "Édition"
 
 #: ../../geoportale.rst:38
 msgid ""
@@ -166,7 +166,7 @@ msgstr ""
 
 #: ../../geoportale.rst:58
 msgid "Selezione"
-msgstr ""
+msgstr "Sélection"
 
 #: ../../geoportale.rst:59
 msgid ""
@@ -204,7 +204,7 @@ msgstr ""
 
 #: ../../geoportale.rst:72
 msgid "Localizzazione"
-msgstr ""
+msgstr "Localisation"
 
 #: ../../geoportale.rst:73
 msgid ""
@@ -218,7 +218,7 @@ msgstr ""
 
 #: ../../geoportale.rst:78
 msgid "Stampa"
-msgstr ""
+msgstr "Impression"
 
 #: ../../geoportale.rst:79
 msgid ""
@@ -238,7 +238,7 @@ msgstr ""
 
 #: ../../geoportale.rst:84
 msgid "Misura"
-msgstr ""
+msgstr "Mesure"
 
 #: ../../geoportale.rst:85
 msgid "Lo strumento **Misura** permette di misurare:"
@@ -270,7 +270,7 @@ msgstr ""
 
 #: ../../geoportale.rst:96
 msgid "Dati"
-msgstr ""
+msgstr "Données"
 
 #: ../../geoportale.rst:97
 msgid ""
@@ -356,7 +356,7 @@ msgstr ""
 
 #: ../../geoportale.rst:121
 msgid "3D"
-msgstr ""
+msgstr "3D"
 
 #: ../../geoportale.rst:122
 msgid ""
@@ -393,7 +393,7 @@ msgstr ""
 
 #: ../../geoportale.rst:133
 msgid "Manuale"
-msgstr ""
+msgstr "Manuel"
 
 #: ../../geoportale.rst:134
 msgid ""
