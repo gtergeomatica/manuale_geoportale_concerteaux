@@ -35,6 +35,7 @@ Strumenti e funzioni
 
 Modifica
 +++++++++
+Lo strumento **Modifica** compare nella toolbar solo se l'utente ha eseguito il login e se gli sono stati attribuiti i permessi per la modifica dei dati. Lo strumento consente solo di creare nuovi elementi (sia la geometria che le relative informazioni alfanumeriche).
 
 
 Selezione
