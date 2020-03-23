@@ -33,6 +33,4 @@ See the already translated file **intro.po** in the *manuale_geoportale_concerte
 
 The animated image below shows the process to be followed:
 
-.. image:: img/misura.gif
-
-![i_sentinel_mask_ES](img/misura.gif)
+![translation_notes](img/translation_notes.gif)
