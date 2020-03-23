@@ -32,3 +32,7 @@
 See the already translated file **intro.po** in the *manuale_geoportale_concerteaux-master/locales/fr/LC_MESSAGES* folder in order to have a more detailed example.
 
 The animated image below shows the process to be followed:
+
+.. image:: img/misura.gif
+
+![i_sentinel_mask_ES](img/misura.gif)
