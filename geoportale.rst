@@ -41,9 +41,9 @@ Lo strumento **Modifica** compare nella toolbar solo se l'utente ha eseguito il 
 * modificare le geometrie e/o le relative informazioni alfanumeriche
 * eliminare le geometrie esistenti
 
-Per creare nuovi elementi è sufficiente cliccare sul bottone dello strumento **Modifica** nella toolbar, disegnare la geometria nell'area di mappa e inserire le varie informazioni nella tabella.
+Per creare nuovi elementi è sufficiente cliccare sul bottone dello strumento **Modifica** nella toolbar, disegnare la geometria nell'area di mappa e inserire le varie informazioni nella tabella. **Attenzione** i campi della tabella, contrassegnati da un asterisco rosso, sono obbligatori ciò significa che è necessario inserire delle informazioni affinche il nuovo elemento sia correttamente salvato
 
-Per modificare un elemento esistente invece, è ncessario interrogare l'elemento desiderato cliccando con il mouse e si aprirà il pop-up con l'elenco delle informazioni associate all'elemento. Nel pop-up è presente una toolbar, selezionando lo strumento modifica da qui è possibile accedere e quindi modificare le informazioni associate o la geometria.
+Per modificare un elemento esistente invece, è ncessario interrogare l'elemento desiderato cliccando con il mouse e si aprirà il pop-up con l'elenco delle informazioni associate all'elemento. Nel pop-up è presente una toolbar, selezionando lo strumento modifica da qui è possibile accedere e quindi modificare le informazioni associate o la geometria. Allo stesso modo è possibile accedere allo strumento di modifica delle informazioni tramite lo strumento **Dati**. Ovviamente è possibile anche modificare la geometria semplicemente attivando la modifica e *trascinando* nella posizione desiderata il punto o, in caso di linee e poligoni, i singoli vertici.
 
 Per eliminare invece un elemento esistente, il procedimento è simile a quello della modifica. Bisogna infatti accedere allo strumento modifica presente nella toolbar del pop-up che compare interrogando l'elemento di interesse e andare a inserire la data in corrispondenza del campo **data_eliminazione**.
 
