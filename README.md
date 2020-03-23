@@ -17,14 +17,14 @@
   msgstr "Le projet Concert-Eaux"<br>
 
   <b>Multiline paragraph  </b><br>
-  msgid ""<br><br>
-  "Il /** Geoportale del Progetto INTERREG Concert-Eaux/** e questo manuale "<br>
+  msgid ""<br>
+  "Il ** Geoportale del Progetto INTERREG Concert-Eaux** e questo manuale "<br>
   "sono stati sviluppati da Gter srl Innovazione in Geomatica GNSS e GIS."<br>
   msgstr ""<br>
-  "Le /** Géoportail du projet INTERREG Concert-Eaux/** et ce manuel "<br>
+  "Le ** Géoportail du projet INTERREG Concert-Eaux** et ce manuel "<br>
   "ont été développés par Gter srl Innovazione in Geomatica GNSS e GIS."<br>
   
-  It is necessary to keep the syntax found in the original language text. For instance if the line of the original language ends with a space, the translated line must ends with a space too. All special character like /* that are in the original language text must be kept in the translated text.
+  It is necessary to keep the syntax found in the original language text. For instance if the line of the original language ends with a space, the translated line must ends with a space too. All special character like * that are in the original language text must be kept in the translated text.
   
 * Save the file when the translation is finished
 
