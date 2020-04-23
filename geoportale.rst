@@ -15,7 +15,7 @@ Linterfaccia del Geoportale, intuitiva e user-friendly, è composta da:
 
 .. image:: img/layer.gif
 
-* **Menù dei layer di base** qui sono elencati tutti gli sfondi cartografici disponibili per il geoportale. Di defult viene caricato lo sfonod i OpenStreetMap.
+* **Menù dei layer di base** qui sono elencati tutti gli sfondi cartografici disponibili per il geoportale. Di defult viene caricato lo sfondo di OpenStreetMap.
 
 .. image:: img/base_layer.gif
 
@@ -23,7 +23,7 @@ Linterfaccia del Geoportale, intuitiva e user-friendly, è composta da:
 
 .. image:: img/tool.gif
 
-* **Pane Zoom** strumenti per la navigazione dell'area di mappa (sposta, zoom con rettangolo, zoom alla massima estenzione, zoom-in e zoom-out, zoom precedente e successivo).
+* **Pan e Zoom** strumenti per la navigazione dell'area di mappa (sposta, zoom con rettangolo, zoom alla massima estenzione, zoom-in e zoom-out, zoom precedente e successivo).
 * **Scala e Coordinate del mouse** qui vengono mostrate la scala di visualizzazione e le coordinate al puntatore del mouse espresse.
 
 Il pulsante **Login** in alto a destra nell'header, consente appunto all'utente di accreditarsi con il proprio user e password. A seconda dei privilegi attribuiti ai singoli utenti dall'amministratore del Geoportale, l'utente potra accedere a strumenti e funzioni che altrimenti non sono visibili come il download o l'editing dei dati.
