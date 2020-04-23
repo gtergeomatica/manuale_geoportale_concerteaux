@@ -96,7 +96,7 @@ msgstr ""
 "disponibles (métadonnées, édition seulement pour les utilisateurs "
 "accrédités, sélection, localisation, impression, mesure, permalien, "
 "tableaux des attributs, afficheur 3D). Les instruments individuels seront"
-" mieux décrits dans la section: ref:`instruments-et-fonctions`."
+" mieux décrits dans la section **Les fonctionnalités**."
 
 #: ../../geoportale.rst:26
 msgid ""
