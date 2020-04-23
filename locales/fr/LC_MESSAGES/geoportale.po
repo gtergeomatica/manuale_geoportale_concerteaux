@@ -85,7 +85,6 @@ msgstr ""
 " le fond OpenStreetMap."
 
 #: ../../geoportale.rst:22
-#, fuzzy
 msgid ""
 "**Toolbar** da qui è possibile accedere a tutti gli strumenti disponibili"
 " (metadati, editing per i soli utenti accreditati, selezione, "
