@@ -168,8 +168,8 @@ msgid ""
 "strumento **Modifica** nella toolbar, disegnare la geometria nell'area di"
 " mappa e inserire le varie informazioni nella tabella."
 msgstr ""
-"Pour créer des éléments nouveaux il est suffisant de cliquer sur le bouton de l’"
-"instrument **Édition** dans la barre d’outils, dessiner la géométrie dans la zone"
+"Pour créer des éléments nouveaux il est suffisant de cliquer sur le bouton de l’instrument "
+"**Édition** dans la barre d’outils, dessiner la géométrie dans la zone"
 " de carte et insérer les différentes informations dans le tableau."
 
 #: ../../geoportale.rst:46
