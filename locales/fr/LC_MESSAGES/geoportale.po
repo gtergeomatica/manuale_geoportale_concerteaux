@@ -32,14 +32,17 @@ msgid ""
 "https://www.gishosting.gter.it/lizmap-web-"
 "client/lizmap/www/index.php/view/map/?repository=concerteaux&project=concerteaux"
 msgstr ""
+"Le géoportail Concert-Eaux est accessible à ce lien: "
+"https://www.gishosting.gter.it/lizmap-web-"
+"client/lizmap/www/index.php/view/map/?repository=concerteaux&project=concerteaux"
 
 #: ../../geoportale.rst:11
 msgid "Linterfaccia del Geoportale, intuitiva e user-friendly, è composta da:"
-msgstr ""
+msgstr "L'interface du Géoportail, intuitive et facile à utiliser, est composée de:"
 
 #: ../../geoportale.rst:13
 msgid "**Area di Mappa** qui vengono visualizzati i dati"
-msgstr ""
+msgstr "**Zone de la Carte** ici sont affichées les données"
 
 #: ../../geoportale.rst:14
 msgid ""
@@ -56,6 +59,18 @@ msgid ""
 " contenete eventuali informazioni, modificarne l'opacità, zoommare "
 "all'estensione del layer e se possibile scaricare il dato."
 msgstr ""
+"**Légende** ici sont énumérés tous les layer disponibles sur le "
+"Géoportail. Les données résultants, de projet Concert-Eaux et de projets "
+"précédents, sont subdivisés en quatre groupes principaux, un pour "
+"projet, nommés précisément Concert-Eaux, EurEauPa, RiskNat et Eurobassin. "
+"Ces quatre groupes sont à leur tour subdivisés en sous-groupes. Les "
+" layers individuels et sous-groupes peuvent être allumés et éteints en cliquant sur la"
+" case à cocher correspondante. En cliquant plutôt sur la flèche à côté de la "
+" case à cocher est possible étendre le groupe et en visualiser donc le "
+"contenu ou, dans le cas des layer, afficher la légende. En outre "
+"en cliquant sur le nom du groupe ou du layer est possible accéder à un pop-up"
+" contenant éventuelles informations, en modifier l'opacité, zoomer "
+"à l’extension du layer et si possible télécharger le donné."
 
 #: ../../geoportale.rst:18
 msgid ""
@@ -63,6 +78,9 @@ msgid ""
 "cartografici disponibili per il geoportale. Di defult viene caricato lo "
 "sfonod i OpenStreetMap."
 msgstr ""
+"**Menu des fond de carte** ici sont énumérés tous les fonds "
+"cartographiques disponibles pour le géoportail. Par défaut est téléchargé le "
+"fond OpenStreetMap."
 
 #: ../../geoportale.rst:22
 msgid ""
@@ -72,6 +90,11 @@ msgid ""
 "visualizzatore 3D). I singoli strumenti saranno meglio descritti nella "
 "sezione :ref:`strumenti-e-funzioni`."
 msgstr ""
+"**Barre d’outils** d’ici est possible accéder à tous les instruments disponibles"
+" (métadonnées, édition seulement pour les utilisateurs accrédités, sélection, "
+"localisation, impression, mesure, permalien, tableaux des attributs, "
+"afficheur 3D). Les instruments individuels seront mieux décrits dans la "
+"section: ref:`instruments-et-fonctions`."
 
 #: ../../geoportale.rst:26
 msgid ""
