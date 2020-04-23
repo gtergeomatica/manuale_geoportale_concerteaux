@@ -28,6 +28,7 @@ Linterfaccia del Geoportale, intuitiva e user-friendly, è composta da:
 
 Il pulsante **Login** in alto a destra nell'header, consente appunto all'utente di accreditarsi con il proprio user e password. A seconda dei privilegi attribuiti ai singoli utenti dall'amministratore del Geoportale, l'utente potra accedere a strumenti e funzioni che altrimenti non sono visibili come il download o l'editing dei dati.
 
+.. _instruments-et-fonctions:
 .. _strumenti-e-funzioni:
 
 Strumenti e funzioni
