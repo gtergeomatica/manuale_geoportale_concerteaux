@@ -19,7 +19,7 @@ Linterfaccia del Geoportale, intuitiva e user-friendly, è composta da:
 
 .. image:: img/base_layer.gif
 
-* **Toolbar** da qui è possibile accedere a tutti gli strumenti disponibili (metadati, editing per i soli utenti accreditati, selezione, localizzazione, stampa, misura, permalink, tabelle degli attributi, visualizzatore 3D). I singoli strumenti saranno meglio descritti nella sezione :ref:`strumenti-e-funzioni`.
+* **Toolbar** da qui è possibile accedere a tutti gli strumenti disponibili (metadati, editing per i soli utenti accreditati, selezione, localizzazione, stampa, misura, permalink, tabelle degli attributi, visualizzatore 3D). I singoli strumenti saranno meglio descritti nella sezione **Strumenti e funzioni**.
 
 .. image:: img/tool.gif
 
@@ -28,8 +28,6 @@ Linterfaccia del Geoportale, intuitiva e user-friendly, è composta da:
 
 Il pulsante **Login** in alto a destra nell'header, consente appunto all'utente di accreditarsi con il proprio user e password. A seconda dei privilegi attribuiti ai singoli utenti dall'amministratore del Geoportale, l'utente potra accedere a strumenti e funzioni che altrimenti non sono visibili come il download o l'editing dei dati.
 
-
-.. _strumenti-e-funzioni:
 
 Strumenti e funzioni
 --------------------------------------------
