@@ -166,7 +166,6 @@ msgid "eliminare le geometrie esistenti"
 msgstr "éliminer les géométries existantes"
 
 #: ../../geoportale.rst:44
-#, fuzzy
 msgid ""
 "Per creare nuovi elementi è sufficiente cliccare sul bottone dello "
 "strumento **Modifica** nella toolbar, disegnare la geometria nell'area di"
@@ -184,7 +183,6 @@ msgstr ""
 "pour que le nouvel élément soit correctement enregistré"
 
 #: ../../geoportale.rst:46
-#, fuzzy
 msgid ""
 "Per modificare un elemento esistente invece, è ncessario interrogare "
 "l'elemento desiderato cliccando con il mouse e si aprirà il pop-up con "
