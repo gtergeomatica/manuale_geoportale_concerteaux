@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Manuale - Geoportale Concert-Eaux \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-23 10:07+0200\n"
+"POT-Creation-Date: 2020-04-23 11:00+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -85,12 +85,13 @@ msgstr ""
 " le fond OpenStreetMap."
 
 #: ../../geoportale.rst:22
+#, fuzzy
 msgid ""
 "**Toolbar** da qui è possibile accedere a tutti gli strumenti disponibili"
 " (metadati, editing per i soli utenti accreditati, selezione, "
 "localizzazione, stampa, misura, permalink, tabelle degli attributi, "
 "visualizzatore 3D). I singoli strumenti saranno meglio descritti nella "
-"sezione :ref:`strumenti-e-funzioni`."
+"sezione **Strumenti e funzioni**."
 msgstr ""
 "**Barre d’outils** d’ici est possible accéder à tous les instruments "
 "disponibles (métadonnées, édition seulement pour les utilisateurs "
@@ -131,15 +132,15 @@ msgstr ""
 "instruments et fonctions qui autrement ne sont pas visibles comme la "
 "possibilité de télécharger ou l'édition des données."
 
-#: ../../geoportale.rst:34
+#: ../../geoportale.rst:33
 msgid "Strumenti e funzioni"
 msgstr "Les fonctionnalités"
 
-#: ../../geoportale.rst:37
+#: ../../geoportale.rst:36
 msgid "Modifica"
 msgstr "Édition"
 
-#: ../../geoportale.rst:38
+#: ../../geoportale.rst:37
 msgid ""
 "Lo strumento **Modifica** compare nella toolbar solo se l'utente ha "
 "eseguito il login e se gli sono stati attribuiti i permessi per la "
@@ -149,7 +150,7 @@ msgstr ""
 "l'utilisateur est connecté et si lui ont été attribuées les permis pour "
 "la modification des données. L'instrument permet de:"
 
-#: ../../geoportale.rst:40
+#: ../../geoportale.rst:39
 msgid ""
 "creare nuovi elementi (sia la geometria che le relative informazioni "
 "alfanumeriche),"
@@ -157,15 +158,15 @@ msgstr ""
 "créer éléments nouveaux (la géométrie mais aussi les informations "
 "pertinentes alphanumériques),"
 
-#: ../../geoportale.rst:41
+#: ../../geoportale.rst:40
 msgid "modificare le geometrie e/o le relative informazioni alfanumeriche"
 msgstr "modifier les géométries et/ou les informations alphanumériques pertinentes"
 
-#: ../../geoportale.rst:42
+#: ../../geoportale.rst:41
 msgid "eliminare le geometrie esistenti"
 msgstr "éliminer les géométries existantes"
 
-#: ../../geoportale.rst:44
+#: ../../geoportale.rst:43
 msgid ""
 "Per creare nuovi elementi è sufficiente cliccare sul bottone dello "
 "strumento **Modifica** nella toolbar, disegnare la geometria nell'area di"
@@ -175,14 +176,13 @@ msgid ""
 "affinche il nuovo elemento sia correttamente salvato"
 msgstr ""
 "Pour créer des éléments nouveaux il est suffisant de cliquer sur le "
-"bouton de l’instrument **Édition** dans la barre d’outils, dessiner"
-" la géométrie dans la zone de carte et insérer les différentes "
-"informations dans le tableau. **Attention** les "
-"champs du tableau, marqués d'un astérisque rouge, sont "
-"obligatoires, cela signifie qu'il faut saisir des informations "
-"pour que le nouvel élément soit correctement enregistré"
+"bouton de l’instrument **Édition** dans la barre d’outils, dessiner la "
+"géométrie dans la zone de carte et insérer les différentes informations "
+"dans le tableau. **Attention** les champs du tableau, marqués d'un "
+"astérisque rouge, sont obligatoires, cela signifie qu'il faut saisir des "
+"informations pour que le nouvel élément soit correctement enregistré"
 
-#: ../../geoportale.rst:46
+#: ../../geoportale.rst:45
 msgid ""
 "Per modificare un elemento esistente invece, è ncessario interrogare "
 "l'elemento desiderato cliccando con il mouse e si aprirà il pop-up con "
@@ -197,16 +197,16 @@ msgid ""
 msgstr ""
 "Pour modifier un élément existant plutôt, on a besoin d’interroger "
 "l'élément désiré en cliquant avec la souris et un pop-up s’ouvrira avec "
-"la liste des informations associés à l’élément. Dans le pop-up est"
-" présente une barre d’outils, en sélectionnant l’instrument édition "
-"d’ici est possible accéder et donc modifier les informations associées ou la géométrie. "
-"De la même manière, il est possible d'accéder à l'outil de édition des "
-"informations via l'outil **Données**. Il est également possible de "
-"modifier la géométrie simplement en activant la modification et "
-"en faisant glisser le point ou, dans le cas des lignes et "
-"des polygones, les sommets individuels."
+"la liste des informations associés à l’élément. Dans le pop-up est "
+"présente une barre d’outils, en sélectionnant l’instrument édition d’ici "
+"est possible accéder et donc modifier les informations associées ou la "
+"géométrie. De la même manière, il est possible d'accéder à l'outil de "
+"édition des informations via l'outil **Données**. Il est également "
+"possible de modifier la géométrie simplement en activant la modification "
+"et en faisant glisser le point ou, dans le cas des lignes et des "
+"polygones, les sommets individuels."
 
-#: ../../geoportale.rst:48
+#: ../../geoportale.rst:47
 msgid ""
 "Per eliminare invece un elemento esistente, il procedimento è simile a "
 "quello della modifica. Bisogna infatti accedere allo strumento modifica "
@@ -220,7 +220,7 @@ msgstr ""
 "l'élément d'intérêt et aller à insérer la date en correspondance du champ"
 " **date_élimination**."
 
-#: ../../geoportale.rst:50
+#: ../../geoportale.rst:49
 msgid ""
 "In ogni caso per rendere effettiva qualsiasi modifica ai dati (creazione "
 "di nuovi elementi, modifica o eliminazione degli esistenti) è necessario "
@@ -232,7 +232,7 @@ msgstr ""
 "existants) il faut appuyer sur le bouton *Sauve*. ATTENTION: une fois "
 "sauvées les modifications ce ne sera plus possible revenir."
 
-#: ../../geoportale.rst:54
+#: ../../geoportale.rst:53
 msgid ""
 "Per maggiori dettagli si rimanda al manuale di Lizmap Web Client "
 "https://docs.lizmap.com/current/it/user/user_guide.html#editing-spatial-"
@@ -242,11 +242,11 @@ msgstr ""
 " https://docs.lizmap.com/current/it/user/user_guide.html#editing-spatial-"
 "data"
 
-#: ../../geoportale.rst:58
+#: ../../geoportale.rst:57
 msgid "Selezione"
 msgstr "Sélection"
 
-#: ../../geoportale.rst:59
+#: ../../geoportale.rst:58
 msgid ""
 "Lo strumento **Selezione** permette di selezionare le geometrie di un "
 "layer a sua volta selezionato tramite il menù a tendina dello strumento. "
@@ -256,23 +256,23 @@ msgstr ""
 "layer à son tour sélectionné au travers le menu déroulant de "
 "l’instrument. Les instruments de sélection disponibles sont:"
 
-#: ../../geoportale.rst:61
+#: ../../geoportale.rst:60
 msgid "selezione tramite riquadro"
 msgstr "sélection au travers encadré"
 
-#: ../../geoportale.rst:62
+#: ../../geoportale.rst:61
 msgid "slezione tramite cerchio"
 msgstr "sélection au travers cercle"
 
-#: ../../geoportale.rst:63
+#: ../../geoportale.rst:62
 msgid "selezione tramite poligono"
 msgstr "élection au travers polygone"
 
-#: ../../geoportale.rst:64
+#: ../../geoportale.rst:63
 msgid "selezione tramite disegno a mano libera"
 msgstr "sélection au travers un dessin à main levée"
 
-#: ../../geoportale.rst:66
+#: ../../geoportale.rst:65
 msgid ""
 "E' possibile creare una nuova selezione, aggiungere gli elementi "
 "selezionati alla selezione esistente oppure rimuovere gli elementi "
@@ -291,11 +291,11 @@ msgstr ""
 " possible de supprimer le filtre pour afficher à nouveau toutes les "
 "géométries."
 
-#: ../../geoportale.rst:72
+#: ../../geoportale.rst:71
 msgid "Localizzazione"
 msgstr "Localisation"
 
-#: ../../geoportale.rst:73
+#: ../../geoportale.rst:72
 msgid ""
 "Lo strumento **Localizzazione** permette di cercare e selezionare un "
 "comune facente parte del bacino del Roia. Una volta selezionato, l'area "
@@ -312,11 +312,11 @@ msgstr ""
 "ouvrir le menu déroulant et le parcourir pour trouver la municipalité "
 "d’intérêt."
 
-#: ../../geoportale.rst:78
+#: ../../geoportale.rst:77
 msgid "Stampa"
 msgstr "Impression"
 
-#: ../../geoportale.rst:79
+#: ../../geoportale.rst:78
 msgid ""
 "Lo strumento **Stampa** permette di salvare l'area di mappa in formato "
 "immagine (pdf, jpg, ecc.). Al momento sono disponibili 4 layout di stampa"
@@ -344,27 +344,27 @@ msgstr ""
 "imprimer. Dans l'impression apparaîtront tous les layer qui ont été "
 "allumés dans l'arborescence des layer et le fond cartographique choisi."
 
-#: ../../geoportale.rst:84
+#: ../../geoportale.rst:83
 msgid "Misura"
 msgstr "Mesure"
 
-#: ../../geoportale.rst:85
+#: ../../geoportale.rst:84
 msgid "Lo strumento **Misura** permette di misurare:"
 msgstr "L'instrument **Mesure** permet de mesurer:"
 
-#: ../../geoportale.rst:87
+#: ../../geoportale.rst:86
 msgid "una lunghezza"
 msgstr "une longueur"
 
-#: ../../geoportale.rst:88
+#: ../../geoportale.rst:87
 msgid "un'area"
 msgstr "une zone"
 
-#: ../../geoportale.rst:89
+#: ../../geoportale.rst:88
 msgid "un perimetro"
 msgstr "un périmètre"
 
-#: ../../geoportale.rst:91
+#: ../../geoportale.rst:90
 msgid ""
 "E' sufficiente selezionare il tipo di misura che si vuole fare dal menù a"
 " tendina e iniziare a disegnare sull'area di mappa la lunghezza/l'area/ "
@@ -384,11 +384,11 @@ msgstr ""
 " en sélectionnant celle souhaitée de menu déroulant sans devoir fermer et"
 " rouvrir l’instrument."
 
-#: ../../geoportale.rst:96
+#: ../../geoportale.rst:95
 msgid "Dati"
 msgstr "Données"
 
-#: ../../geoportale.rst:97
+#: ../../geoportale.rst:96
 msgid ""
 "Lo strumento **Dati** permette di visualizzare in un pannello, che viene "
 "aperto automaticamente in basso cliccando sul pulsante nella toolbar "
@@ -406,7 +406,7 @@ msgstr ""
 " Il est suffisant de appuyer sur le bouton *Détail* correspondant au "
 "layer désiré pour afficher le tableau."
 
-#: ../../geoportale.rst:99
+#: ../../geoportale.rst:98
 msgid ""
 "Una volta aperta la tabella degli attributi, è possibile agire sulle "
 "singole righe tramite i pulsanti in corrispondenza di ciascuna riga. "
@@ -416,19 +416,19 @@ msgstr ""
 "lignes individuelles en utilisant les boutons en regard de chaque ligne. "
 "Ces outils permettent de:"
 
-#: ../../geoportale.rst:101
+#: ../../geoportale.rst:100
 msgid "selezionare la riga e quindi la geometria corrispondente,"
 msgstr "sélectionner la ligne et ensuite la géométrie correspondante,"
 
-#: ../../geoportale.rst:102
+#: ../../geoportale.rst:101
 msgid "zoomare sulla geometria,"
 msgstr "zoomer sur la géométrie,"
 
-#: ../../geoportale.rst:103
+#: ../../geoportale.rst:102
 msgid "centrare l'area di mappa sulla geometria ,"
 msgstr "centrer la zone de carte sur la géométrie,"
 
-#: ../../geoportale.rst:104
+#: ../../geoportale.rst:103
 msgid ""
 "modificare le informazioni alfanumeriche presenti in tabella (solo se "
 "l'utente loggato è abilitato alla modifica dei dati)"
@@ -437,7 +437,7 @@ msgstr ""
 "(seulement si l'utilisateur connecté est activé pour modifier les "
 "données)"
 
-#: ../../geoportale.rst:106
+#: ../../geoportale.rst:105
 msgid ""
 "E' possibile inoltre filtrare le righe mostrate in tabella digitando ad "
 "esempio una parola chiave o anche solo alcuni caratteri nel form *Cerca*."
@@ -457,23 +457,23 @@ msgstr ""
 "cependant visibles dans la zone de carte alors que seront affichées "
 "uniquement les lignes du tableau répondant au critère de recherche."
 
-#: ../../geoportale.rst:108
+#: ../../geoportale.rst:107
 msgid "Gli strumenti accanto al form *Cerca* permettono di:"
 msgstr "Les outils à côté du formulaire *Cherche* permettent de:"
 
-#: ../../geoportale.rst:110
+#: ../../geoportale.rst:109
 msgid "selezionare tutte le righe,"
 msgstr "sélectionner toutes les lignes,"
 
-#: ../../geoportale.rst:111
+#: ../../geoportale.rst:110
 msgid "deselezionare le righe selezionate,"
 msgstr "désélectionner les lignes sélectionnées,"
 
-#: ../../geoportale.rst:112
+#: ../../geoportale.rst:111
 msgid "spostare le righe selezionate in cima alla tabella"
 msgstr "déplacer les lignes sélectionnées en haut du tableau"
 
-#: ../../geoportale.rst:113
+#: ../../geoportale.rst:112
 msgid ""
 "filtrare i dati (con questo strumento verranno temporaneamente "
 "visualizzate solo le geometrie e le corrispondenti righe in tabella che "
@@ -485,11 +485,11 @@ msgstr ""
 "qui répondent au critère de recherche. Pour revenir à l'affichage total "
 "est suffisant cliquer à nouveau sur le bouton filtration),"
 
-#: ../../geoportale.rst:114
+#: ../../geoportale.rst:113
 msgid "visualizzare i valori della tabella."
 msgstr "afficher les valeurs du tableau."
 
-#: ../../geoportale.rst:118
+#: ../../geoportale.rst:117
 msgid ""
 "Per maggiori dettagli si rimanda al manuale di Lizmap Web Client "
 "https://docs.lizmap.com/current/it/user/user_guide.html#attribute-layers"
@@ -497,11 +497,11 @@ msgstr ""
 "Pour plus de détails voir le manuel de Lizmap Web Client "
 "https://docs.lizmap.com/current/it/user/user_guide.html#attribute-layers"
 
-#: ../../geoportale.rst:121
+#: ../../geoportale.rst:120
 msgid "3D"
 msgstr "3D"
 
-#: ../../geoportale.rst:122
+#: ../../geoportale.rst:121
 msgid ""
 "Lo strumento **3D** permette di visualizzare alcuni dati pubblicati nel "
 "geoportale in un modello tridimensionale basato sul Modello Digitale del "
@@ -521,19 +521,19 @@ msgstr ""
 " tout simplement en cliquant dessus avec la souris. Le modèle est "
 "navigable à travers la souris:"
 
-#: ../../geoportale.rst:124
+#: ../../geoportale.rst:123
 msgid "tenendo premuto il tasto sinistro si ha il tool *orbita*"
 msgstr "en maintenant le bouton gauche enfoncé vous avez l’outil *orbite*"
 
-#: ../../geoportale.rst:125
+#: ../../geoportale.rst:124
 msgid "tenendo premuto il tasto destro si ha il tool *pan*"
 msgstr "en maintenant le bouton droit enfoncé vous avez l’outil *pan*"
 
-#: ../../geoportale.rst:126
+#: ../../geoportale.rst:125
 msgid "muovendo la rotella si ha il tool *zoom*"
 msgstr "déplacer la roue vous donne l’outil *zoom*"
 
-#: ../../geoportale.rst:130
+#: ../../geoportale.rst:129
 msgid ""
 "Il pannello in basso in cui viene visualizzato il modello 3D può essere "
 "ingrandito cliccando sul tasto *Massimizza*, oppure mantenuto aperto "
@@ -547,11 +547,11 @@ msgstr ""
 "du panneau ou en cliquant à nouveau le bouton sur la barre d’outils "
 "latérale du géoportail."
 
-#: ../../geoportale.rst:133
+#: ../../geoportale.rst:132
 msgid "Manuale"
 msgstr "Manuel"
 
-#: ../../geoportale.rst:134
+#: ../../geoportale.rst:133
 msgid ""
 "Lo strumento **Manuale** apre in una nuova pagina del browser la pagina "
 "wed di questo manuale."
